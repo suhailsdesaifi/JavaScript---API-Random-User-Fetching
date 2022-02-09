@@ -1,2 +1,2 @@
-# JavaScript-API-Random-User-Fetching
+# JavaScript-Random-Users-Fetching-through-API
 Fetch the random user through API
